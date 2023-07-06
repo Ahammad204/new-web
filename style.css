@@ -45,10 +45,13 @@
     justify-content: space-around;
     align-items: center;
 }
-.title{
+.arti{
+    text-align: left;
+}
+.titler{
     font-size: 54px;
     font-weight: bold;
-    padding: 20px;
+    padding: 30px;
 }
 .pera{
     font-size: 20px;
@@ -64,5 +67,36 @@
     cursor: pointer;
 }
 .btn:hover{
+    color: rgb(4, 4, 8);
+}
+.about-us{
+   display: flex;
+   justify-content: space-around;
+}
+.about-img{
+        width: 300px;
+}
+.he{
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+}
+.title{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.lora{
+   padding-bottom: 10px;
+}
+.btn2{
+    background-color: blueviolet;
+    color: beige;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    text-align: center;
+    cursor: pointer;
+}
+.btn2:hover{
     color: rgb(4, 4, 8);
 }
