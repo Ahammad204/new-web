@@ -3,3 +3,49 @@
     padding:0px;
     
 }
+.navbar{
+    background-color:#0D0A0C;
+    color: bisque;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+}
+.menubar{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+   
+}
+.menu{
+    padding: 10px;
+    margin-right: 17px;
+    font-size: 18px;
+
+}
+.navimg{
+    width: 100px;
+    padding: 5px;
+}
+.main-container{
+    background-image: url(./images/background.png), linear-gradient(45deg, rgb(5, 5, 5), #2e2e2e);
+    height: 100vh;
+}
+.contain-pic{
+    width: 300px;
+}
+.main-container{
+    display: flex;
+    flex-direction: row-reverse;
+    color: azure;
+    justify-content: space-around;
+    align-items: center;
+}
+.title{
+    font-size: 54px;
+    font-weight: bold;
+    padding: 20px;
+}
+.pera{
+    font-size: 20px;
+   padding-bottom: 15px;
+}
