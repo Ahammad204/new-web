@@ -22,6 +22,11 @@
     font-size: 18px;
 
 }
+.menu:hover{
+    color: rgb(74, 74, 128);
+    cursor: pointer;
+}
+
 .navimg{
     width: 100px;
     padding: 5px;
@@ -48,4 +53,16 @@
 .pera{
     font-size: 20px;
    padding-bottom: 15px;
+}
+.btn{
+    background-color: blueviolet;
+    color: beige;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    text-align: center;
+    cursor: pointer;
+}
+.btn:hover{
+    color: rgb(4, 4, 8);
 }
