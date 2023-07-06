@@ -1,22 +1,5 @@
 *{
     margin: 0px;
-    padding: 0px;
-}
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row-reverse;
-}
-.box{
-    padding: 20px;
-    background-color: brown;
-    width: 110px;
-}
-.box2{
-    background-color: aqua;
-    padding: 20px;
-}
-.box3{
-    background-color: black;
+    padding:0px;
+    
 }
